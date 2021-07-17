@@ -1,0 +1,1 @@
+export {set5Days, setToday, fetchForeCast,fetchToday, setDetails} from './generalReducer/generalReducerActions';
